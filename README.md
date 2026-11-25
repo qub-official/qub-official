@@ -7,7 +7,7 @@
   <a href="https://hackerone.com/qub"><img src="https://img.shields.io/badge/HackerOne-qub-0C0F14?style=flat-square&labelColor=A87C3A&logo=hackerone&logoColor=FFFFFF" alt="HackerOne"></a>
   <img src="https://img.shields.io/badge/reputation-182-0C0F14?style=flat-square&labelColor=B08A8A" alt="Reputation 182">
   <img src="https://img.shields.io/badge/signal-4.6-0C0F14?style=flat-square&labelColor=B49A85" alt="Signal 4.6">
-  <a href="https://qub.kellyblue.site"><img src="https://img.shields.io/badge/portfolio-qub.kellyblue.site-0C0F14?style=flat-square&labelColor=A87C3A" alt="Portfolio"></a>
+  <a href="https://qub-official.github.io/"><img src="https://img.shields.io/badge/portfolio-qub--official.github.io-0C0F14?style=flat-square&labelColor=A87C3A" alt="Portfolio"></a>
   <a href="https://instagram.com/qub_official_"><img src="https://img.shields.io/badge/instagram-@qub__official__-0C0F14?style=flat-square&labelColor=B08A8A&logo=instagram&logoColor=FFFFFF" alt="Instagram"></a>
 </p>
 
