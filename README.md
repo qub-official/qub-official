@@ -25,7 +25,7 @@ I find the doors that should stay locked, and I build calm tools.
 
 ### ✦ Apps &nbsp;<sub>앱</sub>
 
-Free for Windows 10 and 11. Every app has its own page with a one-click download. Two more are on the way.
+Free for Windows 10 and 11, and Good4Christian runs on Android too. Every app has its own page with a one-click download. Two more are on the way.
 
 <table>
 <tr>
@@ -116,6 +116,18 @@ Free for Windows 10 and 11. Every app has its own page with a one-click download
 <a href="https://qub-official.github.io/myTraffic/"><img src="https://img.shields.io/badge/website-B08A8A?style=flat-square" alt="Website"></a>
 <a href="https://github.com/qub-official/myTraffic"><img src="https://img.shields.io/badge/code-0C0F14?style=flat-square&logo=github&logoColor=FFFFFF" alt="Code"></a>
 </td>
+<td width="50%" valign="top">
+<img src="assets/icons/good4christian.png" width="52" align="left" alt="">
+<b><a href="https://qub-official.github.io/good4christian/">Good4Christian</a></b> <sub>굿포크리스천</sub><br>
+<sub>Paste a song link, title or lyrics and find out if it is good for Christians.</sub>
+<br clear="left"><br>
+<a href="https://github.com/qub-official/good4christian/releases/latest/download/Good4Christian-Setup.exe"><img src="https://img.shields.io/badge/download-A87C3A?style=flat-square&logo=windows&logoColor=FFFFFF" alt="Download for Windows"></a>
+<a href="https://github.com/qub-official/good4christian/releases/latest/download/Good4Christian.apk"><img src="https://img.shields.io/badge/android-A87C3A?style=flat-square&logo=android&logoColor=FFFFFF" alt="Download for Android"></a>
+<a href="https://qub-official.github.io/good4christian/"><img src="https://img.shields.io/badge/website-B08A8A?style=flat-square" alt="Website"></a>
+<a href="https://github.com/qub-official/good4christian"><img src="https://img.shields.io/badge/code-0C0F14?style=flat-square&logo=github&logoColor=FFFFFF" alt="Code"></a>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="assets/icons/copycut.png" width="52" align="left" alt="">
 <b>CopyCut Studio</b> <sub>카피컷</sub><br>
